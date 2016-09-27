@@ -1,7 +1,7 @@
 {
-  "name": "@google/cloud-trace",
-  "version": "0.5.7",
-  "description": "Node.js Support for StackDriver Trace",
+  "name": "redpoint-cloud-trace",
+  "version": "0.5.8",
+  "description": "Node.js Support for StackDriver Trace (Redpoint fork)",
   "main": "index.js",
   "repository": "GoogleCloudPlatform/cloud-trace-nodejs",
   "scripts": {
